@@ -1,7 +1,7 @@
 {
   "name": "whatsapp-blast-worker",
   "version": "1.0.0",
-  "description": "WhatsApp Web automation worker",
+  "description": "WhatsApp Web automation worker for Telegram bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
